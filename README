@@ -1,0 +1,21 @@
+File:		cocoview
+Author:	Andreas Warnke
+eMail:		awarnke@cip.informatik.uni-wuerzburg.de
+
+Release:	1.0.1 / Jan 99
+
+Copying Policy:
+		Public Domain
+
+Compatibility:
+		ppc/R4
+		Ported to Intel/R4 by Ben <neb@oen.net>
+
+
+Description:	Picture Viewer
+
+Notes:	cocoview has an initially empty list of image files.
+		to add images to that list, drag the files onto cocoview.
+		cocoview cooses images by random from that list
+		and displays them for about 15 seconds each.
+		Only images with an appropriate installed translator are shown.
